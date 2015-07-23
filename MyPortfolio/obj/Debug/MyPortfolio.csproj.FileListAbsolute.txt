@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2012\Projects\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll
+c:\users\admin\documents\visual studio 2012\Projects\MyPortfolio\MyPortfolio\bin\MyPortfolio.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
+c:\users\admin\documents\visual studio 2012\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb
+c:\users\admin\documents\visual studio 2012\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojResolveAssemblyReference.cache
+E:\Projects\MyPortfolio\MyPortfolio\bin\MyPortfolio.dll
+E:\Projects\MyPortfolio\MyPortfolio\bin\MyPortfolio.pdb
+E:\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.csprojResolveAssemblyReference.cache
+E:\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.dll
+E:\Projects\MyPortfolio\MyPortfolio\obj\Debug\MyPortfolio.pdb

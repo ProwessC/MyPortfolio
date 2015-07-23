@@ -1,0 +1,147 @@
+﻿body 
+{
+    color:#fff;
+    background-color:black;
+    /*Parchment*//*'Old English Text MT'*/ /*'Matura MT Script Capitals'*//*'Lucida Handwriting'*//*'Lucida Calligraphy'*/ /*'Kunstler Script'*/ /*'Harlow Solid'*//*Harrington*/ /*Forte*//*'CommercialScript BT'*//*'Brush Script MT'*/
+    font-size:80%;
+    margin:1em;
+  
+    /*padding:0;*/
+
+}
+/*#neww {
+    background
+}*/
+h1 {
+    color:white;
+    font-style:normal;
+    text-align: left;
+    letter-spacing: normal;
+    padding: 0.25em
+   
+    /*margin: 0;
+    margin-bottom: 0.5em;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: #c00;*/
+}
+em 
+{
+   font-family: 'Script MT';
+   font-size: 3em;
+   font-style:normal;
+}
+p
+{
+    
+    font-size:1em;
+    text-align:right;
+    letter-spacing:normal;
+    word-spacing:2.5em;
+    margin-right:2.7em;
+}
+a 
+{
+    font-family:'Script MT','Bookman Old Style', Arial;
+    color:white;
+    font-size:1.5em;
+   
+}
+/*.box {
+    width:1250px;
+    height:500px;
+    border:2px white;
+    margin:auto;
+   background-color:white;
+   border-top-left-radius:10px;
+   border-bottom-right-radius:10px;
+}*/
+#htext 
+{
+    color:white;
+    word-spacing:normal;
+    letter-spacing:normal;
+    font-family:'Bookman Old Style';
+    margin-left:2.5em;
+    text-align:left;
+}
+#ptext 
+{
+    color:white;
+    word-spacing:normal;
+    letter-spacing:normal;
+    font-family:'Bookman Old Style';
+    margin-left:2.5em;
+    text-align:left;
+   
+}
+#ttext 
+{
+    background-color:black;
+    color:white;
+    text-align:left;
+}
+#ctext 
+{
+    color:#71567d;
+    background-color:white;
+    font-family:'Bookman Old Style';
+    word-spacing:normal;
+    letter-spacing:normal;
+    margin-left:2.5em;
+    text-align:left;
+}
+#phtext 
+{
+    color:#71567d;
+    background-color:white;
+    font-family:'Bookman Old Style';
+    word-spacing:normal;
+    letter-spacing:normal;
+    margin-left:2.5em;
+    text-align:left;
+    font-size:1.5em;
+}
+table 
+{
+    background-color:white;
+    color: black;
+    font-family:'Bookman Old Style',Arial;
+    font-size:1.5em;
+    width:1250px;
+    height:500px;
+    margin:0.25em;
+    margin-left:2.5em;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    text-align:left;
+    
+   
+}
+img 
+{
+    border-style:solid;
+    border-width:2px;
+    border-color: black;
+    margin-left:80px;
+}
+#imgtext 
+{
+    border-style: hidden;
+    border-width:2px;
+    border-color: white;
+    margin-left:80px;
+}
+footer
+{
+   font-family:Calibri;
+   font-style:normal;
+
+}
+address 
+{
+    font-style:normal;
+    font-family:Calibri;
+}
